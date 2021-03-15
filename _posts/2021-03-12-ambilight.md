@@ -4,9 +4,9 @@ title:  "DIY Ambilight System"
 author: tom
 categories: [ projects ]
 image: assets/images/ambilight/ambilight.jpg
-beforetoc: "A kind of a smart backlight system for a TV spotted in a commercial several years ago immediately draw my attention. When I encountered the relatively affordable individually controllable RGB LED strips, I could not resist to try to make my own version of the so-called ambilight system."
-toc: true
 ---
+A kind of a smart backlight system for a TV spotted in a commercial several years ago immediately draw my attention. When I encountered the relatively affordable individually controllable RGB LED strips, I could not resist to try to make my own version of the so-called ambilight system.
+
 ## DIY Ambilight System
 
 ### What it is and what it is used for?

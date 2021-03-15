@@ -4,9 +4,9 @@ title:  "String art - newly rediscovered idea"
 author: tom
 categories: [ projects ]
 image: assets/images/string_art/string_art.jpg
-beforetoc: "When I first spotted a string art by <a href='http://artof01.com/vrellis/works/knit.html'>Petros Vrellis</a>, I was astonished. Interestingly enough, when I came across it a few years later again, I did not remember it at all, but I revived apparently revived all the same feelings. This time, I did not stand aside."
-toc: true
 ---
+When I first spotted a string art by <a href='http://artof01.com/vrellis/works/knit.html'>Petros Vrellis</a>, I was astonished. Interestingly enough, when I came across it a few years later again, I did not remember it at all, but I revived apparently revived all the same feelings. This time, I did not stand aside.
+
 ## String art
 
 <a href="https://en.wikipedia.org/wiki/String_art">String art</a> is a specific way of creating images and ornaments by winding a string around nails or pins attached to a plane. Although it is a quite interesting and nice technique for creating decorations by itself, an artist name <a href='http://artof01.com/vrellis/works/knit.html'>Petros Vrellis</a> came up with string art pieces reproducing photographic images. It is obvious that such thing is impossible to be done by heart and that some assistance of computer and mathematics was involved.
